@@ -39,11 +39,12 @@ Basically:
 -  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes whrn the polypeptide chain is done and the translation is complete
 
 The DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids
+You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it’s been there since the cell formed
 
 ![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 
 
-Codon table
+**Codon table**
 
 
 ![image](https://user-images.githubusercontent.com/75043245/151870725-258caffd-4457-4218-9d51-fb51d3624adf.png)

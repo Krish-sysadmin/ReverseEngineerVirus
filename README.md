@@ -1,5 +1,9 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
+
+<img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
+
+
 <h2> What is dengue? </h2>
 
 > Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes. The primary vectors that transmit the disease are Aedes aegypti mosquitoes and, to a lesser extent, Ae. albopictus. The virus responsible for causing dengue, is called dengue virus (DENV). There are four DENV serotypes and it is possible to be infected four times. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue. There is no specific treatment for dengue/severe dengue. Early detection of disease progression associated with severe dengue, and access to proper medical care lowers fatality rates of severe dengue to below 1%.  Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. The global incidence of dengue has grown dramatically with about half of the world's population now at risk. Although an estimated 100-400 million infections occur each year, over 80% are generally mild and asymptomatic. - World Health Organization
@@ -22,7 +26,7 @@
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
 - By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes
 
-<img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
+
 
 <h2> Code:</h2>
 

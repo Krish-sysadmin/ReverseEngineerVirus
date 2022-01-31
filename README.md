@@ -30,8 +30,23 @@ Basically:
 - RNA is a copy of DNA but a single strand
 - Essentially DNA codes for RNA and RNA codes for proteins. But instead of T as a base RNA has U
 - Codon table - multiple triplet codons code for 1 amino acid (eg AAT and AAC both code for leucine) to decrease the likelihood of mutations cos even if a base gets replaced (eg T by C) the same amino acid will be synthesized
+- There MANY types of RNA , theres mRNA, tRNA, snRNA , rRNA etc etc. but, when you’re picturing a strand similar to the dna one you r about mRNA. With mRNA you need to know that basically it derives from the actual dna strand with all the information , but there’s a little complication here. DNA consists of two strands, the coding strand with a 5’-3’ direction which actually contains all the information of the genome as it is, and then its complementary strand, the non-coding strand with a 3-5 direction. Now, the mrna is created FROM the non coding dna strand, that’s why it has the SAME bases (except T, it’s replaced by U) , SAME direction with the coding strand. ( as they are both complementary to the non coding strand ). After all, that’s why they called it ‘coding strand’ of DNA. It’s because it has the same base sequence with the mRNA molecule, which is the one that travels to the ribosomes and helps with protein synthesis etc etc. DNA is ‘transcribed’ into mRNA with a process called ‘transcription’. And badically what happens during this process is some enzymes line up nitrogenous bases of RNA ( adenine, guanine, cytosine and uracyl -remember in place of thymine) opposite the complementary bases of the non-coding dna strand ( the complementary strand of mRNA) . A-T and G-C are complementary. The mRNA is single stranded.
+- Gene sequence of the DNA, there are some regions between the sequences of the actual genes that are not going to be translated to proteins afterwards that are responsible for functions of the DNA , not for protein synthesis. After mRNA is transcribed, it also contains those regions that need to be cut off during a process called mRNA splicing. Enzymes inside the nucleus of the cell cut off those parts that ‘do not talk about proteins’ from the mRNA molecule, ( the introns ) and leave the exons, which are the actual genes. (The non-translating regions are the introns.)
+- The mRNA molecule leaves the cell, travels to the ribosomes and then the translation begins. 
+- Each amino acid refers to a codon ( let me explain )
+- A codon is a sequence of 3 bases ( for example AUG- which codes for the amino acid methionin)
+- A gene on the mRNA might have 50 codons or 50 codons ( thus 50x3=150 bases ) . The mrna binds to the ribosome and another molecule , the tRNA , reads the codons, and brings the amino acid needed, and thus the polypeptide chain ( the protein) is created
+-  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes whrn the polypeptide chain is done and the translation is complete
+
+The DNA is basically untouched. It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids
+
+![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 
 
+Codon table
+
+
+![image](https://user-images.githubusercontent.com/75043245/151870725-258caffd-4457-4218-9d51-fb51d3624adf.png)
 
 
 References (for genome sequence):

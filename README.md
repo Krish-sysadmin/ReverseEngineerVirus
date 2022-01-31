@@ -16,7 +16,7 @@ Remember: T in DNA  and U in RNA
 1. So you have 4 bases
 2. A and T pair up (In each strand) Of DNA
 3. C and G pair up (In each strand) Of DNA
-4. But in RNA U pairs up with A
+4. But in RNA U pairs up with A instead of T
 5. Genome sequence in link is DNA code which is a template 
 6. The two strands of DNA separate. And mRNA bases attach to one of the DNA strands which is opposite to the one it wants to replicate. So if you wanna replicate A then mRNA will attach to T (so the mRNA base is T). They keep doing that until the desired code is replicated and they have a strand of RNA which goes to the ribosome and in ribosome. 3 bases are read at the same time. Those are the triplet codons. And an amino acid matching those is brought to them. Multiple amino acids together are bound by peptide bonds and that makes a protein
 

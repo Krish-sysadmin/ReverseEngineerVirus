@@ -1,6 +1,9 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
-Hello
+- DNA and RNA are nucleic acids, that is, they are polymers of repeating monomers called nucleotides. Each nucleotide consists of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base.
+- RNA is a single-stranded nucleic acid, it consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine).
+- DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. They always pair up in this same combination. Note that the strands of DNA are antiparallel, they run alongside each other but in opposite orientation.
+- Protein synthesis is the process by which proteins are made in a cell from genetic information. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where U is complementary to A instead of T (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm of the cell. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.
 
 
 <h2> What is dengue? </h2>

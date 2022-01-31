@@ -1,7 +1,10 @@
-# Reverse engineering the dengue virus
+# Reverse engineering the dengue virus (under development 🚧)
 
+<h2> Code:</h2>
 
-<h2> Bio stuff:</h2>
+See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob/main/dengue-virus.ipynb)
+
+<h2> 🧬 Biology background info </h2>
 
 
 - RNA and DNA are both nucleic acids, meaning they are made of repeating subunits called nucleotides. These nucleotides (a sugar molecule covalently bonded to a phosphate molecule and to a nitrogenous base) are made of a pentose sugar, phosphate group and a base. RNA is a single stranded molecule meaning it has one long chain of nucleotides bonded by covalent bonds and the bases A, U, C and G. Also RNA has ribose as the pentose sugar
@@ -42,7 +45,7 @@ Basically:
 - Each amino acid refers to a codon ( let me explain )
 - A codon is a sequence of 3 bases ( for example AUG- which codes for the amino acid methionin)
 - A gene on the mRNA might have 50 codons or 50 codons ( thus 50x3=150 bases ) . The mrna binds to the ribosome and another molecule , the tRNA , reads the codons, and brings the amino acid needed, and thus the polypeptide chain ( the protein) is created
--  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes whrn the polypeptide chain is done and the translation is complete
+-  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes when the polypeptide chain is done and the translation is complete
 
 The DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids
 You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it’s been there since the cell formed
@@ -56,7 +59,34 @@ You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it�
 ![image](https://user-images.githubusercontent.com/75043245/151872198-90c1c385-167d-40eb-a748-90e7ae260cdd.png)
 (That is RNA,  is what ultimately codes for the amino acid) 
 
-References (for genome sequence):
+
+<h2> Our progress  🌊 </h2>
+
+
+<h2> Our todo list </h2>
+
+
+
+<h2>  Unanswered Questions </h2>
+
+
+<h2> Tests </h2>
+
+None yet
+
+
+<h2> Precautions and/or solutions </h2>
+
+NOT MEDICAL ADVICE. I AM NOT A DOCTOR.
+
+
+
+ <h2>Resources to learn more about genomes, DNA, RNA, transcription and more: </h2> 
+
+Websites 
 - https://www.ncbi.nlm.nih.gov/nuccore/9626685
 - https://en.wikipedia.org/wiki/Dengue_virus
 - https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties
+
+Books (dengue elated, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
+- 

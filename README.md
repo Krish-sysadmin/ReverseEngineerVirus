@@ -47,7 +47,7 @@ You donâ€™t make DNA out of RNA cos the DNA always stays in the nucleus and itâ€
 **Codon table**
 
 
-![image](https://user-images.githubusercontent.com/75043245/151870725-258caffd-4457-4218-9d51-fb51d3624adf.png)
+![image](https://user-images.githubusercontent.com/75043245/151872198-90c1c385-167d-40eb-a748-90e7ae260cdd.png)
 
 
 References (for genome sequence):

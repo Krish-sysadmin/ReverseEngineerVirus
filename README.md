@@ -16,8 +16,7 @@ See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob
 
 Remember: T in DNA  and U in RNA
 
-
-![image](https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png =250x250)
+<img src="https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png" width="100" height="100">
 
 1. So you have 4 bases
 2. A and T pair up (In each strand) Of DNA
@@ -28,8 +27,7 @@ Remember: T in DNA  and U in RNA
 
 Codon table to see the code and see what amino acid that codes for: (DNA)
 
-
-![image](https://user-images.githubusercontent.com/75043245/151868401-8dd9c1f1-9858-4977-99f9-0163114c4fdb.png) 
+<img src="https://user-images.githubusercontent.com/75043245/151868401-8dd9c1f1-9858-4977-99f9-0163114c4fdb.png" width="100" height="100">
 
 
 Note:

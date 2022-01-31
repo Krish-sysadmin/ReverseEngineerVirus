@@ -1,7 +1,8 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
-![image](https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png)
 
+
+<img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
 
 <h2> Code:</h2>
 

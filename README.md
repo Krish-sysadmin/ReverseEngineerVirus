@@ -57,6 +57,8 @@ You donâ€™t make DNA out of RNA cos the DNA always stays in the nucleus and itâ€
 
 
 ![image](https://user-images.githubusercontent.com/75043245/151872198-90c1c385-167d-40eb-a748-90e7ae260cdd.png)
+
+
 (That is RNA,  is what ultimately codes for the amino acid) 
 
 
@@ -81,12 +83,12 @@ NOT MEDICAL ADVICE. I AM NOT A DOCTOR.
 
 
 
- <h2>Resources to learn more about genomes, DNA, RNA, transcription and more: </h2> 
+<h2>Resources to learn more about genomes, DNA, RNA, transcription and more: </h2> 
 
 Websites 
 - https://www.ncbi.nlm.nih.gov/nuccore/9626685
 - https://en.wikipedia.org/wiki/Dengue_virus
 - https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties
 
-Books (dengue elated, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
+Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
 - 

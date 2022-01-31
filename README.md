@@ -1,5 +1,16 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
+What is dengue?
+
+> Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes. The primary vectors that transmit the disease are Aedes aegypti mosquitoes and, to a lesser extent, Ae. albopictus. The virus responsible for causing dengue, is called dengue virus (DENV). There are four DENV serotypes and it is possible to be infected four times. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue. There is no specific treatment for dengue/severe dengue. Early detection of disease progression associated with severe dengue, and access to proper medical care lowers fatality rates of severe dengue to below 1%.  Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. The global incidence of dengue has grown dramatically with about half of the world's population now at risk. Although an estimated 100-400 million infections occur each year, over 80% are generally mild and asymptomatic. - World Health Organization
+
+
+
+What do I hope to achieve?
+- Discover patterns
+- Behaviour in terms of evolution for predictions
+- To gauge the similarities, similar characteristics compared to other viruses
+
 The essence of how this works?
 - Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
 - Specific triplets have specific amino acids
@@ -95,6 +106,7 @@ Websites
 - https://www.ncbi.nlm.nih.gov/nuccore/9626685
 - https://en.wikipedia.org/wiki/Dengue_virus
 - https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties
+- https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
 
 Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
 - 

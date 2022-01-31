@@ -52,7 +52,7 @@ You donâ€™t make DNA out of RNA cos the DNA always stays in the nucleus and itâ€
 
 
 ![image](https://user-images.githubusercontent.com/75043245/151872198-90c1c385-167d-40eb-a748-90e7ae260cdd.png)
-
+(That is RNA,  is what ultimately codes for the amino acid) 
 
 References (for genome sequence):
 - https://www.ncbi.nlm.nih.gov/nuccore/9626685

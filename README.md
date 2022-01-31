@@ -8,6 +8,8 @@
 - mRNA is used in transcription where the genes of the DNA molecule are replicated onto an RNA molecule (but changing the base T in DNA for U in RNA) which then travels through the cytoplasm of the cell. In the ribosomes the tRNA basically gets groups of 3 bases where each three bases code for one amino acid and so a long chain of amino acids (protein) is made from one gene
 - DNA is double stranded, has deoxyribose sugar and has a double helix shape. In DNA the 2 strands are held together by hydrogen bonds between the complementary bases on the 2 strands (A from one strand pairs with T from another strand and C from one strand pairs with G from another strand). They always pair up in this way. 2 hydrogen bonds are formed between A and T and 3 hydrogen bonds are formed between C and G and that’s what basically holds the double helix together.
 
+Remember: T in DNA  and U in RNA
+
 
 ![image](https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png)
 

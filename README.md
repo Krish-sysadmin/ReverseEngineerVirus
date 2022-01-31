@@ -7,11 +7,16 @@
 
 
 <h2> What do I hope to achieve?</h2>
+
 - Discover patterns
+
 - Behaviour in terms of evolution for predictions
+
 - To gauge the similarities, similar characteristics compared to other viruses
 
 <h2> The essence of how this works? </h2>
+
+
 - Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response

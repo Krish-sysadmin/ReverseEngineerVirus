@@ -38,7 +38,7 @@ Basically:
 - A gene on the mRNA might have 50 codons or 50 codons ( thus 50x3=150 bases ) . The mrna binds to the ribosome and another molecule , the tRNA , reads the codons, and brings the amino acid needed, and thus the polypeptide chain ( the protein) is created
 -  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes whrn the polypeptide chain is done and the translation is complete
 
-The DNA is basically untouched. It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids
+The DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids
 
 ![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 

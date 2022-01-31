@@ -1,6 +1,6 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
-The gist of how this works?
+The essence of how this works?
 - Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response

@@ -53,3 +53,4 @@ You donâ€™t make DNA out of RNA cos the DNA always stays in the nucleus and itâ€
 References (for genome sequence):
 - https://www.ncbi.nlm.nih.gov/nuccore/9626685
 - https://en.wikipedia.org/wiki/Dengue_virus
+- https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties

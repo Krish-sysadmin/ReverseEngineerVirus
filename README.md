@@ -17,7 +17,7 @@ See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob
 Remember: T in DNA  and U in RNA
 
 
-![image](https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png)
+![image](https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png =250x250)
 
 1. So you have 4 bases
 2. A and T pair up (In each strand) Of DNA

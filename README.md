@@ -1,11 +1,5 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
-- DNA and RNA are nucleic acids, that is, they are polymers of repeating monomers called nucleotides. Each nucleotide consists of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base.
-- RNA is a single-stranded nucleic acid, it consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine).
-- DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. They always pair up in this same combination. Note that the strands of DNA are antiparallel, they run alongside each other but in opposite orientation.
-- Protein synthesis is the process by which proteins are made in a cell from genetic information. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where U is complementary to A instead of T (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm of the cell. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.
-
-
 <h2> What is dengue? </h2>
 
 > Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes. The primary vectors that transmit the disease are Aedes aegypti mosquitoes and, to a lesser extent, Ae. albopictus. The virus responsible for causing dengue, is called dengue virus (DENV). There are four DENV serotypes and it is possible to be infected four times. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue. There is no specific treatment for dengue/severe dengue. Early detection of disease progression associated with severe dengue, and access to proper medical care lowers fatality rates of severe dengue to below 1%.  Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. The global incidence of dengue has grown dramatically with about half of the world's population now at risk. Although an estimated 100-400 million infections occur each year, over 80% are generally mild and asymptomatic. - World Health Organization
@@ -31,7 +25,19 @@ See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob
 
 <h2> 🧬 Biology background info </h2>
 
+The big ideas:
 
+- DNA and RNA are nucleic acids, that is, they are polymers of repeating monomers called nucleotides. Each nucleotide consists of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base.
+- RNA is a single-stranded nucleic acid, it consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine).
+- DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. They always pair up in this same combination. Note that the strands of DNA are antiparallel, they run alongside each other but in opposite orientation.
+- Protein synthesis is the process by which proteins are made in a cell from genetic information. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where U is complementary to A instead of T (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm of the cell. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.
+
+
+<details>
+<summary>The fine details</summary>
+<br>
+
+  
 - RNA and DNA are both nucleic acids, meaning they are made of repeating subunits called nucleotides. These nucleotides are made of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base. RNA is a single stranded molecule meaning it has one long chain of nucleotides bonded by covalent bonds and has bases A, U, C and G. Also RNA has ribose as the pentose sugar
 - mRNA is used in transcription where the genes of the DNA molecule are replicated onto an RNA molecule (but changing the base T in DNA for U in RNA) which then travels through the cytoplasm of the cell. In the ribosomes the tRNA basically gets groups of 3 bases where each three bases code for one amino acid and so a long chain of amino acids (protein) is made from one gene.
 - DNA is double stranded, has deoxyribose sugar and has a double helix shape. In DNA the 2 strands are held together by hydrogen bonds between the complementary bases on the 2 strands (A from one strand pairs with T from another strand and C from one strand pairs with G from another strand). They always pair up in this way. 2 hydrogen bonds are formed between A and T and 3 hydrogen bonds are formed between C and G and that’s what basically holds the double helix together.
@@ -83,6 +89,9 @@ You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it�
 
 
 (That is RNA,  is what ultimately codes for the amino acid) 
+
+  
+</details>
 
 
 <h2> Our progress  🌊 </h2>

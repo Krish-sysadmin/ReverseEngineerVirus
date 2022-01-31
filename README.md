@@ -131,6 +131,7 @@ Websites
 - https://en.wikipedia.org/wiki/Dengue_virus
 - https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties
 - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
+- https://people.cs.uchicago.edu/~fortnow/papers/kaikoura.pdf
 
 Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
 - 

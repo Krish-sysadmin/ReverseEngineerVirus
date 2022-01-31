@@ -1,6 +1,10 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
-
+The gist of how this works?
+- Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
+- Specific triplets have specific amino acids
+- These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
+- By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes
 
 <img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
 

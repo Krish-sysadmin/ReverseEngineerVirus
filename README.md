@@ -12,9 +12,9 @@
 
 <h2> What do I hope to achieve?</h2>
 
-- Discover patterns
+- Discover patterns between viral families
 
-- Behaviour in terms of evolution for predictions
+- Discover behavioral evolution for the virus.
 
 - To gauge the similarities, similar characteristics compared to other viruses
 

@@ -25,8 +25,7 @@
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
 - By manipulating the nitrogen bases (AGCT) of the DNA the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes, such as the reverse transcription of retroviruses (After a virus eg. a retrovirus or a coronavirus enters a host cell, reverse transcriptase converts the viral RNA genome into double-stranded DNA. This viral DNA then migrates to the nucleus and becomes integrated into the host genome)
-- The genome sequence I got from US DOHHS is the DNA sequence, and they used a reverse transcriptase to convert RNA to cDNA - likely! (RNA is converted to cDNA during library prep during sequencing. Then the output sequence is the DNA sequence. They basically generated a cDNA library and sequenced that (library is  population of DNA molecules containing all the necessary sequence information to allow DNA propagation in a cellular host) )
-
+- The genome sequence I got from US DOHHS is the DNA sequence, and they were thinking about the sequence after a reverse transcriptase converts RNA to cDNA (RNA is converted to cDNA during library prep during sequencing. Then the output sequence is the DNA sequence. They basically generated a cDNA library and sequenced that (library is  population of DNA molecules containing all the necessary sequence information to allow DNA propagation in a cellular host) )
 
 
 <h2> Code:</h2>
@@ -74,10 +73,6 @@ Note:
 
 
 
-  
-
-
-
 ![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 
 
@@ -99,7 +94,6 @@ Note:
 <h2> Our todo list </h2>
 
 
-
 <h2>  Unanswered Questions </h2>
 
 
@@ -107,12 +101,9 @@ Note:
 
 None yet
 
-
 <h2> Precautions and/or solutions </h2>
 
 NOT MEDICAL ADVICE. I AM NOT A DOCTOR.
-
-
 
 <h2>Resources to learn more about genomes, DNA, RNA, transcription and more: </h2> 
 

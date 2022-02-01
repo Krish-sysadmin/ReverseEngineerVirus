@@ -6,26 +6,27 @@
 
 <h2> What is dengue? </h2>
 
-> Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes. The primary vectors that transmit the disease are Aedes aegypti mosquitoes and, to a lesser extent, Ae. albopictus. The virus responsible for causing dengue, is called dengue virus (DENV). There are four DENV serotypes and it is possible to be infected four times. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue. There is no specific treatment for dengue/severe dengue. Early detection of disease progression associated with severe dengue, and access to proper medical care lowers fatality rates of severe dengue to below 1%.  Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. The global incidence of dengue has grown dramatically with about half of the world's population now at risk. Although an estimated 100-400 million infections occur each year, over 80% are generally mild and asymptomatic. - World Health Organization
+> Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes. The primary vectors that transmit the disease are Aedes aegypti mosquitoes and, to a lesser extent, Ae. albopictus. The virus responsible for causing dengue is called dengue virus (DENV). There are four DENV serotypes and it is possible to be infected four times. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue. There is no specific treatment for dengue/severe dengue. Early detection of disease progression associated with severe dengue and access to proper medical care lowers fatality rates of severe dengue to below 1%.  Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. The global incidence of dengue has grown dramatically with about half of the world's population now at risk. Although an estimated 100-400 million infections occur each year, over 80% are generally mild and asymptomatic. - World Health Organization
 
 
 
 <h2> What do I hope to achieve?</h2>
 
-- Visualize data to discover patterns between viral families
+- Discover patterns
 
-- Determine the evolutionary behaviour of the virus
+- Behaviour in terms of evolution for predictions
 
-- To gauge the differences and similarities between viruses
+- To gauge the similarities, similar characteristics compared to other viruses
 
-<h2> Prerequisite understanding </h2>
+<h2> The essence of how this works? </h2>
 
 
-- Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
-- Specific triplets have specific amino acids
-- These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
-- By manipulating the nitrogen bases (AGCT) of the DNA the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes, such as the reverse transcription of retroviruses (After a virus eg. a retrovirus or a coronavirus enters a host cell, reverse transcriptase converts the viral RNA genome into double-stranded DNA. This viral DNA then migrates to the nucleus and becomes integrated into the host genome)
-- The genome sequence I got from US DOHHS is the DNA sequence, and they were thinking about the sequence after a reverse transcriptase converts RNA to cDNA (RNA is converted to cDNA during library prep during sequencing. Then the output sequence is the DNA sequence. They basically generated a cDNA library and sequenced that (library is  population of DNA molecules containing all the necessary sequence information to allow DNA propagation in a cellular host) )
+- The base sequence of a gene is transcribed onto an RNA sequence called mRNA. In the ribosomes of cells each triplet of nitrogenous bases found in the mRNA, called a codon, will be translated into one amino acid by the molecule tRNA.
+- Specific combinations of triplets code for specific amino acids (eg AAC will code for one amino acid whilst CCG will code for another)
+- These translated amino acids then link through peptide bonds to form polypeptides which can fold into proteins whose functions range from immune response to structure, transport and sensitivity.
+- By manipulating the nitrogen bases (AGCT) mutations can be introduced into the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes, such as the reverse transcription of retroviruses (after a virus eg. a retrovirus or a coronavirus enters a host cell, reverse transcriptase converts the viral RNA genome into double-stranded DNA. This viral DNA then migrates to the nucleus and becomes integrated into the host genome).
+- The genome sequence I obtained from US DOHHS is the DNA sequence, and they likely used a reverse transcriptase to convert RNA to cDNA. (RNA is converted to cDNA during library prep during sequencing. Then the output sequence is the DNA sequence. They basically generated a cDNA library and sequenced that. Note: A library is a population of DNA molecules containing all the necessary sequence information to allow DNA propagation in a cellular host)
+
 
 
 <h2> Code:</h2>
@@ -37,15 +38,13 @@ See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob
 The big ideas:
 
 - DNA and RNA are nucleic acids, that is, they are polymers of repeating monomers called nucleotides. Each nucleotide consists of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base.
-- RNA is a single-stranded nucleic acid which consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine). There MANY types of RNA , theres mRNA, tRNA, snRNA , rRNA which all carry out different tasks in a cell.
+- RNA is a single-stranded nucleic acid which consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine). There are many types of RNA , theres mRNA, tRNA, snRNA and rRNA which all carry out different tasks in a cell.
 - DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by 3'-5' phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. Hydrogen bonds basically hold the DNA molecule together. Note that the strands of DNA are anti-parallel, meaning they run in opposite directions.
-- DNA consists of two strands, the coding strand with a 5’-3’ direction which actually contains all the information of the genome as it is, and then its complementary strand, the non-coding strand with a 3-5 direction. Now, the mrna is created FROM the non coding dna strand, that’s why it has the SAME bases (except T, it’s replaced by U) , SAME direction with the coding strand. ( as they are both complementary to the non coding strand ). After all, that’s why they called it ‘coding strand’ of DNA. It’s because it has the same base sequence with mRNA
-- Transcription of DNA to mRNA: about mRNA. DNA is transformed into mRNA with a process called ‘transcription’. enzymes like RNA transcriptase II line up the nitrogenous bases of RNA (adenine, guanine, cytosine and uracil) opposite the complementary bases of the non-coding DNA strand (the complementary strand of mRNA).  The mRNA molecule formed is single stranded.
-- In eukaryotes, after transcription, mRNA has to go through mRNA splicing in the cell's nucleus. There are some regions between the sequences of the actual genes, that are not going to be translated to proteins afterwards, that are responsible for other functions of the DNA , not for protein synthesis. After mRNA is transcribed, it also contains those regions that need to be cut off during mRNA splicing. Enzymes alongside snRNA inside the nucleus, cut off those parts that ‘do not refer to proteins’ from the mRNA molecule, (the introns) and leave the exons, which are the actual genes. (The non-translating regions are the introns.)
+- DNA consists of two strands, the coding strand with a 5’-3’ direction which actually contains all the information of the genome as it is, and then its complementary strand, the non-coding strand with a 3-5 direction. The mRNA is created from the non-coding DNA strand, that’s why it has the same bases (except T, it’s replaced by U) and same direction as the coding strand. After all, that’s why they called it ‘coding strand’ of DNA; it has the same base sequence with mRNA.
+- Transcription of DNA to mRNA: DNA is copied into mRNA (single-stranded) by a process called ‘transcription’. Enzymes like RNA transcriptase II line up the nitrogenous bases of RNA (adenine, guanine, cytosine and uracil) opposite the complementary bases of the non-coding DNA strand. 
+- In eukaryotes (such as plant and animal cells), after transcription, mRNA has to go through mRNA splicing in the cell's nucleus. There are some regions between the sequences of the actual genes that are not going to be translated to proteins afterwards and that are responsible for other functions of the DNA. After mRNA is transcribed, it also contains those regions that need to be cut off during mRNA splicing. Enzymes alongside snRNA inside the nucleus remove those parts that do not code for proteins from the mRNA molecule (the introns), and leave the exons which are the coding sections of the nucleic acid.
 - Protein synthesis is the process by which proteins are made in a cell from genes. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where instead of Thymine, there is the RNA base Uracil which is complementary with Adenine (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.  
-*DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids. 
-You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it’s been there since the cell formed
-
+Note to reader: DNA remains basically untouched in the nucleus and only unzips for transcription and DNA replication. It is the transcribed mRNA molecule which moves out of the nucleus and codes for proteins.
 
 <details>
 <summary>The fine details</summary>
@@ -73,6 +72,10 @@ Note:
 
 
 
+  
+
+
+
 ![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 
 
@@ -94,6 +97,7 @@ Note:
 <h2> Our todo list </h2>
 
 
+
 <h2>  Unanswered Questions </h2>
 
 
@@ -101,9 +105,12 @@ Note:
 
 None yet
 
+
 <h2> Precautions and/or solutions </h2>
 
 NOT MEDICAL ADVICE. I AM NOT A DOCTOR.
+
+
 
 <h2>Resources to learn more about genomes, DNA, RNA, transcription and more: </h2> 
 

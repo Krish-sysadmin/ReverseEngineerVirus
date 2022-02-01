@@ -39,21 +39,21 @@ See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob
 The big ideas:
 
 - DNA and RNA are nucleic acids, that is, they are polymers of repeating monomers called nucleotides. Each nucleotide consists of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base.
-- RNA is a single-stranded nucleic acid, it consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine).
-- DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. They always pair up in this same combination. Note that the strands of DNA are antiparallel, they run alongside each other but in opposite orientation.
-- Protein synthesis is the process by which proteins are made in a cell from genetic information. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where U is complementary to A instead of T (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm of the cell. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.
+- RNA is a single-stranded nucleic acid which consists of a long chain of nucleotides covalently bonded together by phosphodiester bonds. In RNA the pentose sugar is ribose and the bases are A (adenine), U (uracil), C (cytosine) and G (guanine). There MANY types of RNA , theres mRNA, tRNA, snRNA , rRNA which all carry out different tasks in a cell.
+- DNA is a double-stranded nucleic acid with a double-helix structure. The two strands are also made of long chains of nucleotides covalently bonded by 3'-5' phosphodiester bonds, however, the nucleotides of DNA are made of deoxyribose sugar and the nitrogenous bases A, T (thymine), C and G. The two strands are linked together by hydrogen bonds formed between complementary base pairs on opposite strands. A forms 2 hydrogen bonds with T and C forms 3 hydrogen bonds with G. Hydrogen bonds basically hold the DNA molecule together. Note that the strands of DNA are anti-parallel, meaning they run in opposite directions.
+- DNA consists of two strands, the coding strand with a 5’-3’ direction which actually contains all the information of the genome as it is, and then its complementary strand, the non-coding strand with a 3-5 direction. Now, the mrna is created FROM the non coding dna strand, that’s why it has the SAME bases (except T, it’s replaced by U) , SAME direction with the coding strand. ( as they are both complementary to the non coding strand ). After all, that’s why they called it ‘coding strand’ of DNA. It’s because it has the same base sequence with mRNA
+- Transcription of DNA to mRNA: about mRNA. DNA is transformed into mRNA with a process called ‘transcription’. enzymes like RNA transcriptase II line up the nitrogenous bases of RNA (adenine, guanine, cytosine and uracil) opposite the complementary bases of the non-coding DNA strand (the complementary strand of mRNA).  The mRNA molecule formed is single stranded.
+- In eukaryotes, after transcription, mRNA has to go through mRNA splicing in the cell's nucleus. There are some regions between the sequences of the actual genes, that are not going to be translated to proteins afterwards, that are responsible for other functions of the DNA , not for protein synthesis. After mRNA is transcribed, it also contains those regions that need to be cut off during mRNA splicing. Enzymes alongside snRNA inside the nucleus, cut off those parts that ‘do not refer to proteins’ from the mRNA molecule, (the introns) and leave the exons, which are the actual genes. (The non-translating regions are the introns.)
+- Protein synthesis is the process by which proteins are made in a cell from genes. DNA is too large to move out of the nucleus through the nuclear pores, so it transcribes the base sequence of a gene onto an RNA molecule called messenger RNA (or mRNA). Note that the mRNA molecule is made of the complementary bases to the DNA molecule, where instead of Thymine, there is the RNA base Uracil which is complementary with Adenine (eg If a section of DNA has AATC then the mRNA has UUAG). The mRNA carries the transcribed gene onto a ribosome in the cytoplasm. In the ribosome, another type of RNA called tRNA (transfer RNA) groups bases of the mRNA molecule in triplets called codons. Each group of 3 bases (or codon) codes for one amino acid. As a gene has many bases the tRNA will code for many amino acids which will bond together by peptide bonds to form a large polypeptide (or protein). Each gene codes for specific polypeptides which then fold into proteins and have diverse functions.  
+*DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids. 
+You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it’s been there since the cell formed
 
 
 <details>
 <summary>The fine details</summary>
 <br>
 
-  
-- RNA and DNA are both nucleic acids, meaning they are made of repeating subunits called nucleotides. These nucleotides are made of a pentose sugar covalently bonded to a phosphate group and a nitrogenous base. RNA is a single stranded molecule meaning it has one long chain of nucleotides bonded by covalent bonds and has bases A, U, C and G. Also RNA has ribose as the pentose sugar
-- mRNA is used in transcription where the genes of the DNA molecule are replicated onto an RNA molecule (but changing the base T in DNA for U in RNA) which then travels through the cytoplasm of the cell. In the ribosomes the tRNA basically gets groups of 3 bases where each three bases code for one amino acid and so a long chain of amino acids (protein) is made from one gene.
-- DNA is double stranded, has deoxyribose sugar and has a double helix shape. In DNA the 2 strands are held together by hydrogen bonds between the complementary bases on the 2 strands (A from one strand pairs with T from another strand and C from one strand pairs with G from another strand). They always pair up in this way. 2 hydrogen bonds are formed between A and T and 3 hydrogen bonds are formed between C and G and that’s what basically holds the double helix together.
-
-Remember: T in DNA  and U in RNA
+ 
 
 <img src="https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png" width="200" height="200">
 
@@ -73,27 +73,11 @@ Note:
 - Multiple amino acids together are bound by peptide bonds and that makes a protein
 
 
-Basically:
-- DNA is the template that stays inside the nucleus
-- And RNA is the single strand that travels out of the nucleus into the ribosome to code for proteins
-- RNA is a copy of DNA but a single strand
-- Essentially DNA codes for RNA and RNA codes for proteins. But instead of T as a base RNA has U
-- Codon table - multiple triplet codons code for 1 amino acid (eg AAT and AAC both code for leucine) to decrease the likelihood of mutations cos even if a base gets replaced (eg T by C) the same amino acid will be synthesized
-- There MANY types of RNA , theres mRNA, tRNA, snRNA , rRNA etc etc. but, when you’re picturing a strand similar to the dna one you r about mRNA. With mRNA you need to know that basically it derives from the actual dna strand with all the information , but there’s a little complication here. DNA consists of two strands, the coding strand with a 5’-3’ direction which actually contains all the information of the genome as it is, and then its complementary strand, the non-coding strand with a 3-5 direction. Now, the mrna is created FROM the non coding dna strand, that’s why it has the SAME bases (except T, it’s replaced by U) , SAME direction with the coding strand. ( as they are both complementary to the non coding strand ). After all, that’s why they called it ‘coding strand’ of DNA. It’s because it has the same base sequence with the mRNA molecule, which is the one that travels to the ribosomes and helps with protein synthesis etc etc. DNA is ‘transcribed’ into mRNA with a process called ‘transcription’. And badically what happens during this process is some enzymes line up nitrogenous bases of RNA ( adenine, guanine, cytosine and uracyl -remember in place of thymine) opposite the complementary bases of the non-coding dna strand ( the complementary strand of mRNA) . A-T and G-C are complementary. The mRNA is single stranded.
-- Gene sequence of the DNA, there are some regions between the sequences of the actual genes that are not going to be translated to proteins afterwards that are responsible for functions of the DNA , not for protein synthesis. After mRNA is transcribed, it also contains those regions that need to be cut off during a process called mRNA splicing. Enzymes inside the nucleus of the cell cut off those parts that ‘do not talk about proteins’ from the mRNA molecule, ( the introns ) and leave the exons, which are the actual genes. (The non-translating regions are the introns.)
-- The mRNA molecule leaves the cell, travels to the ribosomes and then the translation begins. 
-- Each amino acid refers to a codon ( let me explain )
-- A codon is a sequence of 3 bases ( for example AUG- which codes for the amino acid methionin)
-- A gene on the mRNA might have 50 codons or 50 codons ( thus 50x3=150 bases ) . The mrna binds to the ribosome and another molecule , the tRNA , reads the codons, and brings the amino acid needed, and thus the polypeptide chain ( the protein) is created
--  What tf stop means, UAG, UGA and UAA are ‘stop codons’ which code for no amino acid but they ‘inform’ the ribosomes when the polypeptide chain is done and the translation is complete
 
-The DNA is basically untouched ( not to worry about it,only  unzips for transcription) . It stays there only opens up to be replicated but that’s it. DNA to RNA is transcription because then translation is when RNA codes for amino acids. 
-You don’t make DNA out of RNA cos the DNA always stays in the nucleus and it’s been there since the cell formed
+
   
-More technically:
-  
-1.  In transcription, the DNA sequence of a gene is "rewritten" in RNA. In eukaryotes, the RNA must go through additional processing steps to become a messenger RNA, or mRNA.
-2. In translation, the sequence of nucleotides in the mRNA is "translated" into a sequence of amino acids in a polypeptide (protein chain).
+
+
 
 ![image](https://user-images.githubusercontent.com/75043245/151870117-f037363b-e2a3-4097-943b-66747bcd8eba.png)
 

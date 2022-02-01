@@ -24,8 +24,7 @@
 - Each codon (triplet of nitrogenous base) is transcribed into an RNA sequence and is then translated into an amino acid
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
-- By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes
-- <strike>The genome sequence I got of U.S. Department of Health & Human Services is RNA, no transcription?????</strike> 
+- By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes, such as the reverse transcription of retroviruses (After a retrovirus enters a host cell, reverse transcriptase converts the retroviral RNA genome into double-stranded DNA. This viral DNA then migrates to the nucleus and becomes integrated into the host genome)
 - The genome sequence I got from US DOHHS is the DNA sequence, and they used a reverse transcriptase to convert RNA to cDNA - likely!
 
 

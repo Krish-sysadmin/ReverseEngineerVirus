@@ -25,7 +25,8 @@
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
 - By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes
-- The genome sequence I got of U.S. Department of Health & Human Services is RNA, no transcription?????
+- ~~The genome sequence I got of U.S. Department of Health & Human Services is RNA, no transcription????? ~~
+- The genome sequence I got from US DOHHS is the DNA sequence, and they used a reverse transcriptase to convert RNA to cDNA - likely!
 
 
 
@@ -60,7 +61,7 @@ Remember: T in DNA  and U in RNA
 2. A and T pair up (In each strand) Of DNA
 3. C and G pair up (In each strand) Of DNA
 4. But in RNA U pairs up with A instead of T
-5. Genome sequence in link is DNA code which is a template 
+5. Genome sequence in link is DNA code which is a template  - Its the DNA sequence, and they used a reverse transcriptase to convert RNA to cDNA
 6. The two strands of DNA separate. And mRNA bases attach to one of the DNA strands which is opposite to the one it wants to replicate. So if you wanna replicate A then mRNA will attach to T (so the mRNA base is T). They keep doing that until the desired code is replicated and they have a strand of RNA which goes to the ribosome and in ribosome. 3 bases are read at the same time. Those are the triplet codons. And an amino acid matching those is brought to them. Multiple amino acids together are bound by peptide bonds and that makes a protein
 
 Codon table to see the code and see what amino acid that codes for: (DNA)

@@ -12,11 +12,11 @@
 
 <h2> What do I hope to achieve?</h2>
 
-- Discover patterns between viral families
+- Data can be visualised to discover patterns between viral families
 
-- Discover behavioral evolution for the virus.
+- Discover behavioral evolution for the virus (does it follow a "natural evolution behavior")?
 
-- To gauge the similarities, similar characteristics compared to other viruses
+- To gauge the viral similarities (similar characteristics) compared to other viruses and how it differs from other viruses
 
 <h2> The essence of how this works? </h2>
 

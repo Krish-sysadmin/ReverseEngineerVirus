@@ -25,6 +25,7 @@
 - Specific triplets have specific amino acids
 - These translated amino acids perform specific functions ranging from protein synthesis to playing a role in immune response
 - By manipulating the nitrogen bases (AGCT) the code will be introducing mutations in the genetic code which will change the amino acid sequence and thus change the proteins involved in cellular or viral processes
+- The genome sequence I got of U.S. Department of Health & Human Services is RNA, no transcription?????
 
 
 

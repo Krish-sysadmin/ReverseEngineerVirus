@@ -33,6 +33,16 @@
 
 See here: [notebook](https://github.com/Krish-sysadmin/ReverseEngineerVirus/blob/main/dengue-virus.ipynb)
 
+To run the notebook: 
+
+```
+
+pip install notebook (or use anaconda)
+cd ~/directory/to/this/repo
+jupyter notebook
+
+```
+
 <h2> 🧬 Biology background info </h2>
 
 The big ideas:

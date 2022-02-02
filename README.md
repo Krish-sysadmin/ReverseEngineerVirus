@@ -18,7 +18,7 @@
 
 - To gauge the similarities, similar characteristics compared to other viruses
 
-<h2> The essence of how this works? </h2>
+<h2> Prerequisite understanding </h2>
 
 
 - The base sequence of a gene is transcribed onto an RNA sequence called mRNA. In the ribosomes of cells each triplet of nitrogenous bases found in the mRNA, called a codon, will be translated into one amino acid by the molecule tRNA.

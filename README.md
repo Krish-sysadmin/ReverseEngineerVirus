@@ -38,7 +38,7 @@ To run the notebook:
 ```
 
 pip install notebook (or use anaconda)
-cd ~/directory/to/this/repo
+cd ~/path/to/this/repo
 jupyter notebook
 
 ```

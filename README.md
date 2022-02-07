@@ -130,6 +130,9 @@ Websites
 - https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/the-genetic-code-discovery-and-properties
 - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
 - https://people.cs.uchicago.edu/~fortnow/papers/kaikoura.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809784/
+- https://pubmed.ncbi.nlm.nih.gov/26423934/
+- https://a16z.com/2019/11/21/reverse-engineer-biology/
 
 Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
 - 

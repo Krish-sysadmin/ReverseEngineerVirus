@@ -1,6 +1,9 @@
 # Reverse engineering the dengue virus (under development 🚧)
 
 
+
+WARNING!: This project is on temporary sabbatical! Reverse engineering a virus is fun, but it's very consuming (especially without really understanding a lot of the biology behind the scenes), and I can't dedicate time to it now due to other projects and commitments. There is enough code here to decode the dengue virus into its full protein sequences but more is yet to come
+
 <img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
 
 
@@ -64,7 +67,10 @@ Note to reader: DNA remains basically untouched in the nucleus and only unzips f
 <summary>The fine details</summary>
 <br>
 
- 
+What is a polyprotein?
+-  A bunch of protein strands helps together by covalent bonds
+Usually a way viruses pack their proteins closer together
+
 
 <img src="https://user-images.githubusercontent.com/75043245/151867982-4b25dfa5-143e-496f-93b0-ed641fc0bf5c.png" width="200" height="200">
 

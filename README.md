@@ -154,4 +154,5 @@ Websites
 
 
 Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
-- 
+- Dengue Virus Disease - https://www.elsevier.com/books/dengue-virus-disease/qureshi/978-0-12-818270-3
+- The Drama of Dengue Fever: Civic-Oriented Journalists, Community and Artists Fighting Dengue  - https://direct.mit.edu/leon/article-abstract/51/2/199/46436/The-Drama-of-Dengue-Fever-Civic-Oriented?redirectedFrom=fulltext

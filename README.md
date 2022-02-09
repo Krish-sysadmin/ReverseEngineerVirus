@@ -12,11 +12,15 @@
 
 <h2> What do I hope to achieve?</h2>
 
+I could lie and say that I am trying to:
+
 - Discover patterns
 
 - Behaviour in terms of evolution for predictions
 
 - To gauge the similarities, similar characteristics compared to other viruses
+
+and that might just be the by product. But what I am actually trying to do is PLAY WITH THE VIRUS and get my hands dirty with the genetic code of it. Through this repository you too can! :)
 
 <h2> Prerequisite understanding </h2>
 
@@ -133,6 +137,9 @@ Websites
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809784/
 - https://pubmed.ncbi.nlm.nih.gov/26423934/
 - https://a16z.com/2019/11/21/reverse-engineer-biology/
+- https://en.wikipedia.org/wiki/Reading_frame
+- https://www.yourgenome.org/facts/what-is-the-central-dogma#:~:text=The%20central%20dogma%20of%20molecular,this%20information%20to%20the%20ribosomes%3F.
+
 
 Books (dengue related, bioinformatics, vaccines, genome studies, creation of DNA molecules (synthesis), textbooks) and courses:
 - 

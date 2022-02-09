@@ -2,9 +2,12 @@
 
 
 
-**WARNING!: This project is on temporary sabbatical! Reverse engineering a virus is fun, but it's very consuming (especially without really understanding a lot of the biology behind the scenes), and I can't dedicate time to it now due to other projects and commitments. There is enough code here to decode the dengue virus into its full protein sequences so now all that is left is - to determine differences in it compared to its predecessors, find its evolution patterns and discover more patterns! More coming soon!**
+**WARNING!: This project is on temporary sabbatical (for like a couple of months)! Reverse engineering a virus is fun, but it's very consuming (especially without really understanding a lot of the biology behind the scenes), and I can't dedicate time to it now due to other projects and commitments. There is enough code here to decode the dengue virus into its full protein sequences so now all that is left is - to determine differences in it compared to its predecessors, find its evolution patterns and discover more patterns! More coming soon!**
 
 **Current time on this project will be spent by the team in reading more around the virus and reading new research done about it.**
+
+
+The decoder code and the documentation below should be especially useful for you.
 
 
 <img src="https://user-images.githubusercontent.com/75043245/151876851-a653d8ab-d05e-42ac-958a-7ade33d03c2b.png" width="300" height="200">
